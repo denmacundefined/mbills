@@ -16,7 +16,7 @@
 	define('DEFAULTFREEIP', '192.168.88.0');
 	define('DEFAULTMAC', 'DD:DD:DD:DD:DD:DD');
 	define('DEFAULTINFO', 'new');
-	define('HTML_FIRST','<!DOCTYPE HTML><html><head><meta charset="windows-1251"><title>Mikrotik Billing System (made by d0m1nat0r)</title><script type="text/javascript" src="main.js"></script><script type="text/javascript" src="jquery-2.0.1.min.js"></script><link rel="stylesheet" href="main.css"></head><body><center>');
+	define('HTML_FIRST','<!DOCTYPE HTML><html><head><meta charset="windows-1251"><title>Mikrotik Billing System</title><script type="text/javascript" src="main.js"></script><script type="text/javascript" src="jquery-2.0.1.min.js"></script><link rel="stylesheet" href="main.css"></head><body><center>');
 	define('HTML_END','</center></body></html>');
 	define('HTML_MENU','<div><a href="?log">Історія</a> | <a href="?control">Контроль</a> | <a href="?add">Додати</a> | <a href="?report">Активність</a> (<a href="?reportClear" style="color:red">очистити</a>) | <a href="?logout">Вихід</a></div><hr>');
 	session_start();
