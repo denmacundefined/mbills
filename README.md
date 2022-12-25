@@ -1,5 +1,5 @@
 # Mikrotik Billing System
-Lightway Mikrotik Billing System for routers model RB750 with possibility to control local network with many devices inside
+Lite way Mikrotik Billing System for routers model RB750 with possibility to control local network with many devices inside
 
 ## Instalation guide
 1. Need install backup from this repo (file MikroTik-RB750-(mipsbe).backup) on your RB750
