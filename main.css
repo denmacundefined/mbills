@@ -1,48 +1,48 @@
 #newDhcp {
-	margin-top: 25px;
-	width: 40%;
-	background-color: black;
-	border-radius: 20px;
+  margin-top: 25px;
+  width: 40%;
+  background-color: black;
+  border-radius: 20px;
 }
 #newDhcp h4{
-    margin: -10px 0px 0px 0px;
-    width: 171px;
-    background-color: white;
+  margin: -10px 0px 0px 0px;
+  width: 171px;
+  background-color: white;
 }
 #newDhcp p {
-	color: white;
+  color: white;
 }
 #addForm {
-    width:500px;
-    margin-top: 20px;
+  width:500px;
+  margin-top: 20px;
 }
 #addForm legend {
-    font-weight: bold;
-    padding: 0px 20px 0px 20px;
+  font-weight: bold;
+  padding: 0px 20px 0px 20px;
 }
 #addForm label {
-    display: block;
-    margin-bottom: 5px;
-    text-align: right;
-    width: 400px;
+  display: block;
+  margin-bottom: 5px;
+  text-align: right;
+  width: 400px;
 }
 #addForm input,#addForm select {
-    width: 150px;
-    margin-left: 5px;
+  width: 150px;
+  margin-left: 5px;
 }
 #staticArp {
-	margin-top: 30px;
-	width: 80%;
-	background-color: black;
-	border-radius: 20px;
+  margin-top: 30px;
+  width: 80%;
+  background-color: black;
+  border-radius: 20px;
 }
 #staticArp>p {
-	color: white;
+  color: white;
 }
 #staticArp h4 {
-    margin: -10px 0px 0px 0px;
-    width: 210px;
-    background-color: white;
+  margin: -10px 0px 0px 0px;
+  width: 210px;
+  background-color: white;
 }
 #staticArp p,#newDhcp p {
   margin: 5px;
@@ -60,14 +60,14 @@
   background-color: black;
   margin-top: 30px;
   padding-bottom: 10px;
-	border-radius: 20px;
-	width: 1024px;
+  border-radius: 20px;
+  width: 1024px;
 }
 #clients th, #others th {
-	color: white;
+  color: white;
 }
 #clients input[type="checkbox"], #others input[type="checkbox"] {
-    margin-left: 35px;
+  margin-left: 35px;
 }
 #clients h3, #others h3 {
   margin: -12px 0px 5px 0px;
@@ -81,7 +81,7 @@
   width: 870px;
   text-align: left;
   padding-left: 22px;
-	border-radius: 20px;
+  border-radius: 20px;
 }
 #log h3 {
   margin: -12px 0px 0px 0px;
@@ -90,65 +90,65 @@
   padding-left: 22px;
 }
 input[type="number"] {
-	width: 37px;
+  width: 37px;
 }
 input[type="date"] {
-	width: 90px;
+  width: 90px;
 }
 input[type="text"] {
-	width: 115px;
+  width: 115px;
 }
 input[type="text"].limit {
-	width: 77px;
+  width: 77px;
 }
 input[type="text"].comment {
-	width: 233px;
+  width: 233px;
 }
 body>center>div:first-child {
-    height: 33px;
-    background-color: black;
-    padding-top: 10px;
-    border-radius: 20px;
-    width: 500px;
-    color: white;
+  height: 33px;
+  background-color: black;
+  padding-top: 10px;
+  border-radius: 20px;
+  width: 500px;
+  color: white;
 }
 body>center>div:first-child a {
-	color: white;
-	text-decoration: initial;
+  color: white;
+  text-decoration: initial;
 }
 body>center>hr {
-	display:none;
+  display:none;
 }
 #log>p {
-	color: white;
+  color: white;
 }
 #addForm>fieldset {
-	border: none;
-	background-color: black;
-	border-radius: 20px;
+  border: none;
+  background-color: black;
+  border-radius: 20px;
 }
 #addForm>fieldset>legend {
-	background-color: white;
+  background-color: white;
 }
 #addForm>fieldset>label {
-	color: white;
+  color: white;
 }
 #others { 
-    width: 750px;
+  width: 750px;
 }
 #reports .reportTable {
-    text-align: center;
-    margin: 15px 7px 0px 7px;
+  text-align: center;
+  margin: 15px 7px 0px 7px;
 }
 #reports {
-    width: 320px;
-    border: none;
-    background-color: black;
-    border-radius: 20px;
-    color: white;
+  width: 320px;
+  border: none;
+  background-color: black;
+  border-radius: 20px;
+  color: white;
 }
 #reports .reportTable caption {
-    color: black;
-    background-color: white;
-    width: 100px;
+  color: black;
+  background-color: white;
+  width: 100px;
 }
