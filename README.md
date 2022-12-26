@@ -1,4 +1,4 @@
-# Mbills
+# MBills
 Lite way Mikrotik Billing System for routers model RB750 with possibility to control local network with many devices inside
 
 ![mbills](/image.png)
